@@ -1,0 +1,46 @@
+{
+  "name": "deal_guru",
+  "version": "0.1.0",
+  "private": true,
+  "author": "durraniarts",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^3.3.4",
+    "@radix-ui/react-dialog": "^1.0.5",
+    "@radix-ui/react-dropdown-menu": "^2.0.6",
+    "@radix-ui/react-label": "^2.0.2",
+    "@radix-ui/react-slot": "^1.0.2",
+    "@radix-ui/react-toast": "^1.1.5",
+    "axios": "^1.6.8",
+    "bcrypt": "^5.1.1",
+    "class-variance-authority": "^0.7.0",
+    "cloudinary": "^2.2.0",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.375.0",
+    "mongoose": "^8.3.2",
+    "next": "14.2.3",
+    "react": "^18",
+    "react-cookie": "^7.1.4",
+    "react-dom": "^18",
+    "react-hook-form": "^7.51.3",
+    "react-images-uploading": "^3.1.7",
+    "swr": "^2.2.5",
+    "tailwind-merge": "^2.3.0",
+    "tailwindcss-animate": "^1.0.7",
+    "zod": "^3.23.4"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
